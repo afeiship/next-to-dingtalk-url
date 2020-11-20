@@ -3,7 +3,7 @@
  * description: Wrap url in dingtalk.
  * homepage: https://github.com/afeiship/next-to-dingtalk-url
  * version: 1.0.0
- * date: 2020-11-20 17:37:42
+ * date: 2020-11-20 17:49:51
  * license: MIT
  */
 
